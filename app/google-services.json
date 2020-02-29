@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048128168480",
+    "firebase_url": "https://jannani-e1788.firebaseio.com",
+    "project_id": "jannani-e1788",
+    "storage_bucket": "jannani-e1788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048128168480:android:694c27a5746d0044315245",
+        "android_client_info": {
+          "package_name": "com.example.jannani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048128168480-rjqj9eues5n6tilsfgt2sarv5pe9q93n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jannani",
+            "certificate_hash": "28d99215a48fd0d28abb9d2cf5dd501473b79097"
+          }
+        },
+        {
+          "client_id": "1048128168480-jh3mi6a16nq1uqkagenfkcbhg4qpnf4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJhBR-TACGLGvgOvj00N60S6MtN_g680o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048128168480-jh3mi6a16nq1uqkagenfkcbhg4qpnf4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
